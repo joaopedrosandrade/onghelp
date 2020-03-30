@@ -3,10 +3,6 @@
 	:heavy_check_mark: 🚀 Semana OmniStack 11.0 :heavy_check_mark:
 </h4>
 
-<p align="center">
-  <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 💻 Project
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
